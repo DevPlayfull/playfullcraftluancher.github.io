@@ -306,7 +306,7 @@
     position: relative;
   }
   .youtube .social-card-banner  { background: linear-gradient(135deg, #c00, #ff4444); }
-  .youtube2 .social-card-banner { background: linear-gradient(135deg, #a00080, #ff44cc); }
+  .tiktok .social-card-banner { background: linear-gradient(135deg, #202020, #000000); }
   .discord .social-card-banner  { background: linear-gradient(135deg, #404eed, #7289da); }
 
   .social-banner-icon { opacity: 0.95; }
@@ -355,6 +355,7 @@
   .badge-green  { background: rgba(90,173,55,0.2);  color: #7cbf3f; border: 1px solid rgba(90,173,55,0.3); }
   .badge-blue   { background: rgba(91,155,213,0.2); color: #7ab3e0; border: 1px solid rgba(91,155,213,0.3); }
   .badge-purple { background: rgba(192,90,212,0.2); color: #d47ae8; border: 1px solid rgba(192,90,212,0.3); }
+  .badge-orange { background: rgba(192,90,212,0.2); color: #FFA500; border: 1px solid rgba(255, 140, 0,0.3); }
 
   .about-grid {
     display: grid;

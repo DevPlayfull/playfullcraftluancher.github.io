@@ -342,7 +342,7 @@
   .about-avatar {
     width: 90px; height: 90px; border-radius: 50%; flex-shrink: 0;
     background: linear-gradient(135deg, #5aad37, #2d7a1a);
-    overflow: hidden; border: 3px solid #5aad37;
+    overflow: hidden; border: 3px solid #57057a;
   }
   .about-name { font-size: 28px; font-weight: 800; margin-bottom: 6px; }
   .about-tagline { font-size: 13px; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.5; }
@@ -382,7 +382,7 @@
   }
   .about-link-btn:hover { filter: brightness(1.15); transform: translateY(-1px); }
   .about-link-btn.yt  { background: #ff0000; }
-  .about-link-btn.yt2 { background: #c000a0; }
+  .about-link-btn.tt { background: #202020; }
   .about-link-btn.dc  { background: #5865f2; }
 
 

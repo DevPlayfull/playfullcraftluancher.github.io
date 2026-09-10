@@ -355,7 +355,7 @@
   .badge-green  { background: rgba(90,173,55,0.2);  color: #7cbf3f; border: 1px solid rgba(90,173,55,0.3); }
   .badge-blue   { background: rgba(91,155,213,0.2); color: #7ab3e0; border: 1px solid rgba(91,155,213,0.3); }
   .badge-purple { background: rgba(192,90,212,0.2); color: #d47ae8; border: 1px solid rgba(192,90,212,0.3); }
-  .badge-orange { background: rgba(192,90,212,0.2); color: #FFA500; border: 1px solid rgba(255, 140, 0,0.3); }
+  .badge-orange { background: rgba(255, 140, 0,0.2); color: #FFA500; border: 1px solid rgba(255, 140, 0,0.3); }
 
   .about-grid {
     display: grid;
